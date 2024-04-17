@@ -1,0 +1,8 @@
+
+Settings for this experiment
+
+G = 20E4 for all of the experiments
+BW = 0.3Hz to 1KHz both in the SR560 filter bank and PSD configuration
+PSD config: Fh=10, N=100 and M=20
+Sensors are TMR2922 with similar V_b at approx 1V
+Signal is a 40uA sin at 5Hz
